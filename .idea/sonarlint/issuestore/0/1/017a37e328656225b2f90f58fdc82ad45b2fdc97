@@ -1,0 +1,13 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "marks".(­¢ô„ùÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "rollNo".(Ëéßøûÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(Ëéßøûÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(İİŸº
+F
+java:S1481"+Remove this unused "rollNo" local variable.(Ëéßøûÿÿÿÿ
+E
+java:S1481"*Remove this unused "marks" local variable.(­¢ô„ùÿÿÿÿ
