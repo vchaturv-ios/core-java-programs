@@ -1,6 +1,5 @@
 package methodreference;
 
-@FunctionalInterface
 public interface Sayable {
-  void say();
+  void say(String name);
 }
